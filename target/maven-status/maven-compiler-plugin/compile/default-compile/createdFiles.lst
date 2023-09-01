@@ -1,0 +1,6 @@
+com\example\batterymanagementsystem\repository\BatteryDataJpaRepository.class
+com\example\batterymanagementsystem\model\BatteryData.class
+com\example\batterymanagementsystem\repository\BatteryDataRepository.class
+com\example\batterymanagementsystem\controller\BatteryController.class
+com\example\batterymanagementsystem\service\BatteryDataJpaService.class
+com\example\batterymanagementsystem\BatteryManagementSystemApplication.class

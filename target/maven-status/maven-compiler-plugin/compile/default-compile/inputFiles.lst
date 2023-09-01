@@ -1,0 +1,6 @@
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\model\BatteryData.java
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\controller\BatteryController.java
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\service\BatteryDataJpaService.java
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\repository\BatteryDataRepository.java
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\BatteryManagementSystemApplication.java
+D:\battery-management-system\src\main\java\com\example\batterymanagementsystem\repository\BatteryDataJpaRepository.java
